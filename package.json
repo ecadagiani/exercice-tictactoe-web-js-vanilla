@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe-oclock",
+  "version": "1.0.0",
+  "description": "Un site web, jeu de memory pour apprendre les égalités en JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src --listen 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecadagiani/tictactoe-oclock.git"
+  },
+  "author": "Eden Cadagiani <e.cadagiani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecadagiani/tictactoe-oclock/issues"
+  },
+  "homepage": "https://github.com/ecadagiani/tictactoe-oclock#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
