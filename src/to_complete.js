@@ -11,6 +11,7 @@ function processTicTacToe( row, column ) {
 
     // todo - completer içi
 
+    // pour afficher la victoire: alert("C'est gagné");
     return [
         [false, false, false],
         [false, false, false],
