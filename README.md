@@ -1,4 +1,4 @@
-# TicTacToe O'Clock
+# Exercice TicTacToe
 
 Ce projet est un petit exercice pour découvrir le Javascript.
 Tu devras compléter une fonction afin de faire fonctionner un TicTacToe.
